@@ -1,5 +1,5 @@
 # TechHealt
-![plot](./img/logo.jpg)
+![plot](./img/logo.png)
 
 
 
