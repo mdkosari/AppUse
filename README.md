@@ -1,4 +1,6 @@
 # TechHealt
+![plot](./img/logo.jpg)
+
 
 
 
